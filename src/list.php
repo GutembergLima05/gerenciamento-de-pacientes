@@ -43,6 +43,6 @@ require ('./backend/functionList.php');
             </table>
         </div>    
     </div>
-    <footer class="footer">Created by <a href="https://www.linkedin.com/in/vitorfigueiredopb/">Vitor Figueiredo</a> ;D</footer>
+    <footer class="footer">Created by <a href="https://www.linkedin.com/in/gutemberglima/">Gutemberg Lima</a> ;D</footer>
 </body>
 </html>
